@@ -1,4 +1,4 @@
-- Hello!
+# Hello!
 Welcome to this repository!
 There is nothing in here at the moment...
 I'll put stuff that i make here soon.
