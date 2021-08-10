@@ -1,7 +1,10 @@
 # Hello!
 Welcome to this repository!
+
 There is nothing in here at the moment...
+
 I'll put stuff that i make here soon.
+
 Also i am very new at programming, i don't really know to much.
 
 <!---
