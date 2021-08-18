@@ -1,5 +1,8 @@
 # Hello!
+<<<<<<< HEAD
 
+=======
+>>>>>>> b4dfdf2f18eb22a909937cc01daa19385597fce0
 Welcome to this repository!
 
 There is nothing in here at the moment...
