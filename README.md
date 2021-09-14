@@ -1,10 +1,6 @@
 # Hello!
 
-Welcome to this repository!
-
-There is nothing in here at the moment...
-
-I'll put stuff that i make here soon.
+Welcome to my profile!
 
 Also i am very new at programming, i don't really know to much.
 
