@@ -3,6 +3,7 @@
 Welcome to my profile!
 
 Also i am very new at programming, i don't really know to much.
+Currently learning Python
 
 <!---
 DeudzXD/DeudzXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
