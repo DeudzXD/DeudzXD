@@ -9,7 +9,8 @@ Currently learning Python
 |--------|-----|------|
 | yeah | yeah | woohoo |
 
-go see my [twitter or something](https://twitter.com/Deudz_) idk
+go see my [twitter](https://twitter.com/Deudz_)
+or maybe my [gitlab](https://gitlab.com/Deudz)
 
 <!---
 YOU FOUND SECRET! NICE JOB
