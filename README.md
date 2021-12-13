@@ -5,7 +5,12 @@ Welcome to my profile!
 Also i am very new at programming, i don't really know to much.
 Currently learning Python
 
+| TABLES | ARE | COOL |
+|--------|-----|------|
+| yeah | yeah | woohoo |
+
+go see my [twitter or something](https://twitter.com/Deudz_) idk
+
 <!---
-DeudzXD/DeudzXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+YOU FOUND SECRET! NICE JOB
 --->
