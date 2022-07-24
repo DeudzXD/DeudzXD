@@ -11,6 +11,7 @@ Currently learning Python
 
 go see my [twitter](https://twitter.com/Deudz_)
 or maybe my [gitlab](https://gitlab.com/Deudz)
+or [bitbucket] (https://bitbucket.org/deudz)
 
 <!---
 YOU FOUND SECRET! NICE JOB
