@@ -3,7 +3,7 @@
 Welcome to my profile!
 
 Also i am very new at programming, i don't really know to much.
-Currently learning Java & C
+Currently learning **Rust**, Java & C
 
 | TABLES | ARE | COOL |
 |--------|-----|------|
