@@ -3,11 +3,12 @@
 Welcome to my profile!
 
 Also i am very new at programming, i don't really know to much.
-Currently learning **Rust**, Java & C
+Currently learning C, Java & Rust
 
-| TABLES | ARE | COOL |
-|--------|-----|------|
-| yeah | yeah | woohoo |
+|   C   | JAVA | RUST |
+|-------|------|------|
+| almost there <br>(stupid pointers)| making a game <br>(why) | just started |
+
 
 go see my [twitter](https://twitter.com/Deudz_)
 or maybe my [gitlab](https://gitlab.com/Deudz)
