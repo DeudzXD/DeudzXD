@@ -6,10 +6,7 @@ Bem-vindo ao meu perfil!
 
 Sou um novato na programação, não viz nada até agora.
 
-Aprendendo C, Java e Rust
-|   C   | JAVA | RUST |
-|-------|------|------|
-| quase lá <br>(pointers estupidos)| fazendo um jogo <br>(pq) | acabei de começar |
+~~Aprendendo C, Java e Rust~~<br>Decidi so aprender C por enquanto, pra ficar mais fácil
 
 veja meu [twitter](https://twitter.com/Deudz_)
 
