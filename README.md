@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil!
 
 Sou um novato na programação, não viz nada até agora.
 
-~~Aprendendo C, Java e Rust~~<br>Decidi so aprender C por enquanto, pra ficar mais fácil
+~~Aprendendo C, Java e Rust~~<br>Decidi so aprender Java por enquanto, pra ficar mais fácil
 
 veja meu [mastodon](https://mstdn.social/@deudz)
 ou [twitter](https://twitter.com/deudz_)

@@ -4,7 +4,7 @@ Welcome to my profile!
 
 Also i am very new at programming, i don't really know to much.
 
-~~Currently learning C, Java & Rust~~<br>I've decided to only learn C, to make things easier
+~~Currently learning C, Java & Rust~~<br>I've decided to only learn Java, to make things easier
 
 go see my [twitter](https://twitter.com/Deudz_)
 or my [mastodon](https://mstdn.social/@deudz)
