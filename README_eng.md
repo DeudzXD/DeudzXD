@@ -8,8 +8,8 @@ Also i am very new at programming, i don't really know to much.
 
 go see my [twitter](https://twitter.com/Deudz_)
 or my [mastodon](https://mstdn.social/@deudz)
+
 or maybe my [gitlab](https://gitlab.com/Deudz)
-or [bitbucket](https://bitbucket.org/deudz)
 
 <!---
 YOU FOUND SECRET! NICE JOB
