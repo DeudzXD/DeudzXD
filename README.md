@@ -1,16 +1,15 @@
-# Oi
+# Hello!
+###### [versão em português](https://github.com/deudz/deudz/blob/main/README_pt.md)
 
-###### [english version](https://github.com/Deudz/Deudz/blob/main/README_eng.md)
+Welcome to my profile!
 
-Bem-vindo ao meu perfil!
+working on a game, i guess
 
-~~Aprendendo C, Java e Rust~~<br>Decidi so aprender Java por enquanto, pra ficar mais fácil
+go see my [twitter](https://twitter.com/Deudz_)
+or my [mastodon](https://mstdn.social/@deudz)
 
-veja meu [mastodon](https://mstdn.social/@deudz)
-ou [twitter](https://twitter.com/deudz_)
-
-ou talvez meu [gitlab](https://gitlab.com/Deudz)
+or maybe my [gitlab](https://gitlab.com/Deudz)
 
 <!---
-Segredo secreto :)
+YOU FOUND SECRET! NICE JOB
 --->
